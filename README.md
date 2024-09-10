@@ -1,26 +1,62 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=1KESppGG2yC30oyqrv80iHqvVBsFiGYQ4)](https://rishavchanda.io)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Mohsen!;" />
+</h1>
 
-<h1 align="center">Hi 👋, I'm Mohammed Mohsen</h1>
 <h3 align="center">Machine Learning Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=17_enJomkhqmeI48gwMidA6lc1BXsYN4b">
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohammedMohsen0404/Projects_List](https://github.com/MohammedMohsen0404/Projects_List)
+<div align="center" style="margin-bottom: 30px;">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="text-align: left; margin-right: 20px;">
+      <p>👨‍💻 All of my projects are available at <a href="https://github.com/MohammedMohsen0404/Projects_List" target="_blank" style="text-decoration: none; color: #007bff;">GitHub Projects List</a></p>
+      <p>📫 How to reach me: <a href="mailto:MohammedMohsen0404@gmail.com" style="text-decoration: none; color: #007bff;">MohammedMohsen0404@gmail.com</a></p>
+      <p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1xkIL6rxhtf25fwCcs5G41De5H24WD0Ia/view?usp=sharing" target="_blank" style="text-decoration: none; color: #007bff;">My Resume</a></p>
+    </div>
+    <!-- Removed Coding Image -->
+  </div>
+</div>
 
-- 📫 How to reach me **MohammedMohsen0404@gmail.com**
+<div align="center"> 
+  <a href="mailto:MohammedMohsen0404@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mohammedmohsen0404" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MohammedMohsen0404" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xkIL6rxhtf25fwCcs5G41De5H24WD0Ia/view?usp=sharing](https://drive.google.com/file/d/1xkIL6rxhtf25fwCcs5G41De5H24WD0Ia/view?usp=sharing)
+<hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammedmohsen0404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedmohsen0404" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohammedmohsen0404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedmohsen0404" height="30" width="40" /></a>
-</p>
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center" style="margin-top: 30px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,scipy,scikitlearn" alt="Skills Part 1" style="max-width: 150px;" />
+    </a>
+    <a href="https://go-skill-icons.vercel.app/">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,python,huggingface,kaggle,git,github" alt="Skills Part 2" style="max-width: 150px;" />
+    </a>
+  </div>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedmohsen0404&show_icons=true&locale=en&layout=compact" alt="mohammedmohsen0404" /></p>
+<br/>
+<hr/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedmohsen0404&show_icons=true&locale=en" alt="mohammedmohsen0404" /></p>
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammedMohsen0404/MohammedMohsen0404/output/github-contribution-grid-snake.svg" />
+</div>
+<hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedmohsen0404&" alt="mohammedmohsen0404" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMohsen0404&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MohammedMohsen0404&count_private=true&show_icons=true&theme=default&border_radius=10" alt="readme stats" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMohsen0404&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10" alt="top langs" />
+</div>
+<hr/>
+
+[![MasterHead](https://drive.google.com/uc?export=view&id=1KESppGG2yC30oyqrv80iHqvVBsFiGYQ4)](https://rishavchanda.io)
