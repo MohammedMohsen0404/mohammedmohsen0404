@@ -54,7 +54,7 @@
 
 <h2 align="center">💡 My Projects 💡</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
   <!-- Machine Learning Projects -->
   <div style="flex: 1; margin-right: 20px;">
