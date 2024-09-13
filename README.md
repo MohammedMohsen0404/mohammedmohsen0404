@@ -54,12 +54,13 @@
 
 <h2 align="center">💡 My Projects 💡</h2>
 
+<!-- Container for all sections -->
 <div style="display: flex; flex-direction: column; align-items: center;">
 
   <!-- Machine Learning Projects -->
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="text-align: center; margin-bottom: 40px;">
     <h3>Machine Learning Projects</h3>
-    <ul>
+    <ul style="list-style-type: none; padding: 0;">
       <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/ML-Project2" target="_blank">ML Project 2</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/ML-Project3" target="_blank">ML Project 3</a></li>
@@ -74,9 +75,9 @@
   </div>
 
   <!-- Deep Learning Projects -->
-  <div style="flex: 1; margin-left: 20px;">
+  <div style="text-align: center; margin-bottom: 40px;">
     <h3>Deep Learning Projects</h3>
-    <ul>
+    <ul style="list-style-type: none; padding: 0;">
       <li><a href="https://github.com/MohammedMohsen0404/DL-Project1" target="_blank">DL Project 1</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/DL-Project2" target="_blank">DL Project 2</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/DL-Project3" target="_blank">DL Project 3</a></li>
@@ -90,7 +91,34 @@
     </ul>
   </div>
 
+  <!-- Computer Vision Projects -->
+  <div style="text-align: center; margin-bottom: 40px;">
+    <h3>Computer Vision Projects</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project1" target="_blank">CV Project 1</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project2" target="_blank">CV Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project3" target="_blank">CV Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project4" target="_blank">CV Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project5" target="_blank">CV Project 5</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project6" target="_blank">CV Project 6</a></li>
+    </ul>
+  </div>
+
+  <!-- Natural Language Processing Projects -->
+  <div style="text-align: center;">
+    <h3>Natural Language Processing Projects</h3>
+    <ul style="list-style-type: none; padding: 0;">
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project1" target="_blank">NLP Project 1</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project2" target="_blank">NLP Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project3" target="_blank">NLP Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project4" target="_blank">NLP Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project5" target="_blank">NLP Project 5</a></li>
+    </ul>
+  </div>
+
 </div>
+
+
 
 
 <div style="display: flex; justify-content: space-between;">
