@@ -62,15 +62,15 @@
     <h3>Machine Learning Projects</h3>
     <ul style="list-style-type: none; padding: 0;">
       <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project2" target="_blank">ML Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project3" target="_blank">ML Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project4" target="_blank">ML Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project5" target="_blank">ML Project 5</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project6" target="_blank">ML Project 6</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project7" target="_blank">ML Project 7</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project8" target="_blank">ML Project 8</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project9" target="_blank">ML Project 9</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/ML-Project10" target="_blank">ML Project 10</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj02_Big_Mart_Sales_Prediction" target="_blank">Big Mart Sales Prediction</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj04_Advertisement" target="_blank">Advertisement Click Prediction</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj06_SONAR_Rock_Vs_Mine_Prediction" target="_blank">SONAR Rock Vs Mine Prediction</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj07_Airbnb_Prediction" target="_blank">Airbnb Cleaned Europe Prediction</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj08_Abalone_Dataset" target="_blank">Regression with an Abalone Dataset</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj09_Mushroom_Classification" target="_blank">Mushroom Classification</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj10_Customer_Clustering" target="_blank">Customer Clustering</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj11_Credit_Card_Clustering" target="_blank">Credit Card Clustering</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj12_Human_Stress_Detection" target="_blank">Human Stress Detection</a></li>
     </ul>
   </div>
 
