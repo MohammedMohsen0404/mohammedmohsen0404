@@ -101,6 +101,10 @@
       <li><a href="https://github.com/MohammedMohsen0404/CV-Project4" target="_blank">CV Project 4</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/CV-Project5" target="_blank">CV Project 5</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/CV-Project6" target="_blank">CV Project 6</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project7" target="_blank">CV Project 7</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project8" target="_blank">CV Project 8</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project9" target="_blank">CV Project 9</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project10" target="_blank">CV Project 10</a></li>
     </ul>
   </div>
 
@@ -113,43 +117,6 @@
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project3" target="_blank">NLP Project 3</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project4" target="_blank">NLP Project 4</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project5" target="_blank">NLP Project 5</a></li>
-    </ul>
-  </div>
-
-</div>
-
-
-
-
-<div style="display: flex; justify-content: space-between;">
-
-  <!-- Computer Vision Projects -->
-  <div style="flex: 1; margin-right: 20px;">
-    <h3>Computer Vision Projects</h3>
-    <ul>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project1" target="_blank">CV Project 1</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project2" target="_blank">CV Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project3" target="_blank">CV Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project4" target="_blank">CV Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project5" target="_blank">CV Project 5</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project6" target="_blank">CV Project 6</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project7" target="_blank">CV Project 7</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project8" target="_blank">CV Project 8</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project9" target="_blank">CV Project 9</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project10" target="_blank">CV Project 10</a></li>
-    </ul>
-  </div>
-
-  
-  <!-- Natural Language Processing Projects -->
-  <div style="flex: 1; margin-left: 20px;">
-    <h3>Natural Language Processing Projects</h3>
-    <ul>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project1" target="_blank">NLP Project 1</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project2" target="_blank">NLP Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project3" target="_blank">NLP Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project4" target="_blank">NLP Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project5" target="_blank">NLP Project 5</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project6" target="_blank">NLP Project 6</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project7" target="_blank">NLP Project 7</a></li>
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project8" target="_blank">NLP Project 8</a></li>
@@ -157,12 +124,10 @@
       <li><a href="https://github.com/MohammedMohsen0404/NLP-Project10" target="_blank">NLP Project 10</a></li>
     </ul>
   </div>
-
-
-
 </div>
 
----
+<br/>
+<hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
