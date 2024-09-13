@@ -52,6 +52,90 @@
 <br/>
 <hr/>
 
+## 💡 My Projects 💡
+
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Machine Learning Projects -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Machine Learning Projects</h3>
+    <ul>
+      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project2" target="_blank">ML Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project3" target="_blank">ML Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project4" target="_blank">ML Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project5" target="_blank">ML Project 5</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project6" target="_blank">ML Project 6</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project7" target="_blank">ML Project 7</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project8" target="_blank">ML Project 8</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project9" target="_blank">ML Project 9</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/ML-Project10" target="_blank">ML Project 10</a></li>
+    </ul>
+  </div>
+
+  <!-- Deep Learning Projects -->
+  <div style="flex: 1; margin-left: 20px;">
+    <h3>Deep Learning Projects</h3>
+    <ul>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project1" target="_blank">DL Project 1</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project2" target="_blank">DL Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project3" target="_blank">DL Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project4" target="_blank">DL Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project5" target="_blank">DL Project 5</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project6" target="_blank">DL Project 6</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project7" target="_blank">DL Project 7</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project8" target="_blank">DL Project 8</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project9" target="_blank">DL Project 9</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/DL-Project10" target="_blank">DL Project 10</a></li>
+    </ul>
+  </div>
+
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Computer Vision Projects -->
+  <div style="flex: 1; margin-right: 20px;">
+    <h3>Computer Vision Projects</h3>
+    <ul>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project1" target="_blank">CV Project 1</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project2" target="_blank">CV Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project3" target="_blank">CV Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project4" target="_blank">CV Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project5" target="_blank">CV Project 5</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project6" target="_blank">CV Project 6</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project7" target="_blank">CV Project 7</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project8" target="_blank">CV Project 8</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project9" target="_blank">CV Project 9</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/CV-Project10" target="_blank">CV Project 10</a></li>
+    </ul>
+  </div>
+
+  
+  <!-- Natural Language Processing Projects -->
+  <div style="flex: 1; margin-left: 20px;">
+    <h3>Natural Language Processing Projects</h3>
+    <ul>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project1" target="_blank">NLP Project 1</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project2" target="_blank">NLP Project 2</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project3" target="_blank">NLP Project 3</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project4" target="_blank">NLP Project 4</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project5" target="_blank">NLP Project 5</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project6" target="_blank">NLP Project 6</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project7" target="_blank">NLP Project 7</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project8" target="_blank">NLP Project 8</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project9" target="_blank">NLP Project 9</a></li>
+      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project10" target="_blank">NLP Project 10</a></li>
+    </ul>
+  </div>
+
+
+
+</div>
+
+---
+
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MohammedMohsen0404/MohammedMohsen0404/output/github-contribution-grid-snake.svg" />
