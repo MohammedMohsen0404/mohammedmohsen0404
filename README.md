@@ -52,7 +52,7 @@
 <br/>
 <hr/>
 
-## 💡 My Projects 💡
+<h2 align="center">💡 My Projects 💡</h2>
 
 <div style="display: flex; justify-content: space-between;">
 
