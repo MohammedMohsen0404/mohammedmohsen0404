@@ -74,56 +74,49 @@
     </ul>
   </div>
 
-  <!-- Deep Learning Projects -->
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h3>Deep Learning Projects</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project1" target="_blank">DL Project 1</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project2" target="_blank">DL Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project3" target="_blank">DL Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project4" target="_blank">DL Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project5" target="_blank">DL Project 5</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project6" target="_blank">DL Project 6</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project7" target="_blank">DL Project 7</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project8" target="_blank">DL Project 8</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project9" target="_blank">DL Project 9</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/DL-Project10" target="_blank">DL Project 10</a></li>
-    </ul>
-  </div>
+<div style="text-align: center; margin-bottom: 40px;">
+  <h3>Deep Learning Projects</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj13_Appliances_Energy_Prediction" target="_blank">Appliances Energy Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj03_Heart_Failure_Detection" target="_blank">Heart Failure Detection</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj05_Bank_Note_Authentication_UCI" target="_blank">Bank Note Authentication (UCI)</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj14_Students_Performance_Prediction" target="_blank">Students Performance Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj15_Predict-online-gaming-behavior" target="_blank">Predict Online Gaming Behavior</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj16_Zomato_Delivery_Prediction" target="_blank">Zomato Delivery Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj17_Credit-score-classification" target="_blank">Credit Score Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj18_Flight_Fares_Prediction" target="_blank">Flight Fares Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj19_Stellar_Classification" target="_blank">Stellar Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj20_Caloriees_Burnt_Prediction" target="_blank">Calories Burnt Prediction</a></li>
+  </ul>
+</div>
 
-  <!-- Computer Vision Projects -->
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h3>Computer Vision Projects</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project1" target="_blank">CV Project 1</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project2" target="_blank">CV Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project3" target="_blank">CV Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project4" target="_blank">CV Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project5" target="_blank">CV Project 5</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project6" target="_blank">CV Project 6</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project7" target="_blank">CV Project 7</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project8" target="_blank">CV Project 8</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project9" target="_blank">CV Project 9</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/CV-Project10" target="_blank">CV Project 10</a></li>
-    </ul>
-  </div>
+<div style="text-align: center; margin-bottom: 40px;">
+  <h3>Computer Vision Projects</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj27_CV_Aerial_Semantic_Segmentation_by_Drone" target="_blank">Aerial Semantic Segmentation by Drone</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj24_CV_Facial_Expressions_Prediction" target="_blank">Facial Expressions Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj23_CV_Chest_X-Ray_Images_Pneumonia" target="_blank">Chest X-Ray Images (Pneumonia)</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj22_CV_Intel_Image_Classification" target="_blank">Intel Image Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj28_CV_Ships_Object_Detection_using_YOLOv8" target="_blank">Ships Object Detection using YOLOv8</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj21_CV_Cats_vs_Dogs_Image_Classification" target="_blank">Cats vs Dogs Image Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj25_CV_CAMvid_semantic_segmentation" target="_blank">CAMvid Semantic Segmentation</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj26_CV_Food_Image_Classification" target="_blank">Food Image Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj29_CV_Bone_Fracture_Detection_using_YOLOv8" target="_blank">Bone Fracture Detection using YOLOv8</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj30_Daily_Climate_time_series" target="_blank">Daily Climate Time Series Using Conv1D</a></li>
+  </ul>
+</div>
 
-  <!-- Natural Language Processing Projects -->
-  <div style="text-align: center;">
-    <h3>Natural Language Processing Projects</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project1" target="_blank">NLP Project 1</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project2" target="_blank">NLP Project 2</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project3" target="_blank">NLP Project 3</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project4" target="_blank">NLP Project 4</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project5" target="_blank">NLP Project 5</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project6" target="_blank">NLP Project 6</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project7" target="_blank">NLP Project 7</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project8" target="_blank">NLP Project 8</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project9" target="_blank">NLP Project 9</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/NLP-Project10" target="_blank">NLP Project 10</a></li>
-    </ul>
-  </div>
+<!-- Natural Language Processing Projects -->
+<div style="text-align: center;">
+  <h3>Natural Language Processing Projects</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj31_NLP_IMDB_Movie_Reviews" target="_blank">IMDB Movie Reviews</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj32_NLP_CMU_Books_Recommendation_System" target="_blank">CMU Books Recommendation System</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj33_NLP_Movies_RS_using_Collaborative_Filtering" target="_blank">Movies Recommendation System using Collaborative Filtering</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj34_NLP_Shakespeare_Text_Generation" target="_blank">Shakespeare Text Generation</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj35_NLP_English_French_Neural_Machine_Translation" target="_blank">English-French Neural Machine Translation</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj36_NLP_English_French_NMT_with_Attention" target="_blank">English-French NMT with Attention</a></li>
+  </ul>
 </div>
 
 <br/>
