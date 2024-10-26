@@ -57,22 +57,23 @@
 <!-- Container for all sections -->
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-  <!-- Machine Learning Projects -->
-  <div style="text-align: center; margin-bottom: 40px;">
-    <h3>Machine Learning Projects</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj02_Big_Mart_Sales_Prediction" target="_blank">Big Mart Sales Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj04_Advertisement" target="_blank">Advertisement Click Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj06_SONAR_Rock_Vs_Mine_Prediction" target="_blank">SONAR Rock Vs Mine Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj07_Airbnb_Prediction" target="_blank">Airbnb Cleaned Europe Prediction</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj08_Abalone_Dataset" target="_blank">Regression with an Abalone Dataset</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj09_Mushroom_Classification" target="_blank">Mushroom Classification</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj10_Customer_Clustering" target="_blank">Customer Clustering</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj11_Credit_Card_Clustering" target="_blank">Credit Card Clustering</a></li>
-      <li><a href="https://github.com/MohammedMohsen0404/Projects_List/tree/main/Proj12_Human_Stress_Detection" target="_blank">Human Stress Detection</a></li>
-    </ul>
-  </div>
+ <!-- Machine Learning Projects -->
+<div style="text-align: center; margin-bottom: 40px;">
+  <h3>Machine Learning Projects</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj01_Insurance_Claim_Prediction" target="_blank">Insurance Claim Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj02_Big_Mart_Sales_Prediction" target="_blank">Big Mart Sales Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj04_Advertisement" target="_blank">Advertisement Click Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj06_SONAR_Rock_Vs_Mine_Prediction" target="_blank">SONAR Rock Vs Mine Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj07_Airbnb_Prediction" target="_blank">Airbnb Cleaned Europe Prediction</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj08_Abalone_Dataset" target="_blank">Regression with an Abalone Dataset</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj09_Mushroom_Classification" target="_blank">Mushroom Classification</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj10_Customer_Clustering" target="_blank">Customer Clustering</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj11_Credit_Card_Clustering" target="_blank">Credit Card Clustering</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj12_Human_Stress_Detection" target="_blank">Human Stress Detection</a></li>
+  </ul>
+</div>
+
 
 <div style="text-align: center; margin-bottom: 40px;">
   <h3>Deep Learning Projects</h3>
