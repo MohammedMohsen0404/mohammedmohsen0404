@@ -6,6 +6,7 @@
 
 <h3 align="center" style="margin-bottom: 30px;">A Passionate Machine Learning Engineer from Egypt</h3>
 
+
 <div align="center" style="margin-bottom: 30px;">
   <div style="display: flex; align-items: center; justify-content: center;">
     <div style="text-align: left; margin-right: 20px;">
@@ -34,6 +35,15 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </div>
+<hr/>
+
+<h2 align="center">📜 Summary 📜</h2>
+<div align="center" style="max-width: 600px; margin-bottom: 30px;">
+  <p style="text-align: justify;">
+    I am a dedicated Machine Learning Engineer with a strong foundation in data analysis and predictive modeling. My journey in machine learning began with a keen interest in extracting insights from data to solve real-world problems. I have worked on a variety of projects ranging from classification and regression tasks to deep learning and computer vision applications. With proficiency in Python and popular libraries such as TensorFlow and PyTorch, I continuously strive to expand my skill set and stay updated with the latest advancements in the field. My goal is to contribute to innovative projects that make a positive impact and enhance my expertise in machine learning and artificial intelligence.
+  </p>
+</div>
+
 <hr/>
 
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
