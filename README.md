@@ -127,6 +127,7 @@
     <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj34_NLP_Shakespeare_Text_Generation" target="_blank">Shakespeare Text Generation</a></li>
     <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj35_NLP_English_French_Neural_Machine_Translation" target="_blank">English-French Neural Machine Translation</a></li>
     <li><a href="https://github.com/MohammedMohsen0404/Starting-Is-All-You-Need/tree/main/Proj36_NLP_English_French_NMT_with_Attention" target="_blank">English-French NMT with Attention</a></li>
+    <li><a href="https://github.com/MohammedMohsen0404/Effort-Is-All-You-Need/tree/main/LightGCN_Movie_Recommendation_Website" target="_blank">LightGCN Movie Recommendation Website</a></li>
   </ul>
 </div>
 
