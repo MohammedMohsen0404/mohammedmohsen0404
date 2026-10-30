@@ -49,47 +49,75 @@ My philosophy: AI for value, not for hype.
 
 <hr/>
 
-<h2 align="center">⚒️ Technical Skills & Technologies</h2>
+⚒️ Technical Skills & Technologies
+💻 Programming Languages & Data Science
 
-<h3 align="center">💻 Programming Languages & Data Science</h3>
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,sql,numpy,pandas,scipy,matplotlib,seaborn" />
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github&theme=light" />
+<br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </div>
 
-<h3 align="center">🤖 Machine Learning & Deep Learning</h3>
+🤖 Machine Learning & Deep Learning
+
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pytorch,keras" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </div>
 
-<h3 align="center">🧠 Generative AI & LLM Engineering</h3>
+🧠 Generative AI, LLMs & Agentic AI
+
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,ollama,openai,azure,googlecloud" />
+<img src="https://skillicons.dev/icons?i=huggingface&theme=light" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/vLLM-5C4EE5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
-<h3 align="center">⚙️ AI Development & Automation</h3>
+🗄️ Vector Databases & RAG
+
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,selenium,git,github,docker,n8n" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_Databases-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge" />
 </div>
 
-<h3 align="center">📊 Data Analytics & Visualization</h3>
+⚙️ AI Development, APIs & Automation
+
 <div align="center">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,powerbi,tableau" />
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=light" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
 </div>
 
-Technical Expertise
-Programming Languages: Python, C++, SQL.
-Machine Learning: Supervised Learning, Unsupervised Learning, Reinforcement Learning, Model Evaluation, Hyperparameter Tuning.
-Deep Learning: Neural Networks, CNNs, RNNs, Transformers, Computer Vision, Natural Language Processing (NLP), Speech Recognition.
-Generative AI: LLMs, SLMs, Retrieval-Augmented Generation (RAG), Agentic AI, AI Agents, Prompt Engineering, Model Fine-Tuning, LoRA/PEFT, Tokenization, Embeddings, LLM Evaluation.
-AI Frameworks & Tools: LangChain, LangGraph, CrewAI, Hugging Face Transformers, Ollama, Azure AI Foundry, Gemini SDK.
-Vector Databases: Qdrant, Vector Search, Semantic Search, Embedding Techniques.
-Data Analytics: NumPy, Pandas, SciPy, Matplotlib, Seaborn, Advanced Excel, Power BI, Tableau, Data Cleaning, EDA, Data Visualization, Feature Engineering, Statistical Analysis, Time Series Analysis, Forecasting.
-Automation & RPA: n8n, UiPath, Selenium, PyAutoGUI, Workflow Automation, Intelligent Process Automation.
-Development Tools: FastAPI, Git, GitHub, API Integration.
-Mathematics: Linear Algebra, Calculus, Probability & Statistics, Numerical Methods.
-Soft Skills
+📊 Data Analytics & Visualization
 
-Problem Solving • Analytical Thinking • Time Management • Communication • Teamwork • Adaptability • Continuous Learning
+<div align="center">
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
 <hr/>
 
