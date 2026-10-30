@@ -7,9 +7,9 @@
 <h3 align="center">AI Engineer | Generative AI | Agentic AI | Intelligent Automation</h3>
 
 <div align="center">
-<p>👨‍💻 Explore my projects: <a href="https://github.com/MohammedMohsen0404/Projects_List">GitHub Projects List</a></p>
+<p>👨‍💻 Explore my projects</p>
 <p>📫 Contact me: <a href="mailto:MohammedMohsen0404@gmail.com">MohammedMohsen0404@gmail.com</a></p>
-<p>📄 <a href="https://drive.google.com/file/d/12em3DJ3TSnJPMzOS2DO-sZcLsLh7DmdG/view?usp=drive_link">My Resume</a></p>
+<p>📄 <a href="https://drive.google.com/file/d/1imR2Z44fmluczNk1c8evHAWyEQs2W_4n/view?usp=sharing">My Resume</a></p>
 </div>
 
 <div align="center">
