@@ -49,8 +49,9 @@ My philosophy: AI for value, not for hype.
 
 <hr/>
 
-⚒️ Technical Skills & Technologies
-💻 Programming Languages & Data Science
+<h2 align="center">⚒️ Technical Skills & Technologies</h2>
+
+<h3 align="center">💻 Programming Languages & Data Science</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github&theme=light" />
@@ -62,7 +63,7 @@ My philosophy: AI for value, not for hype.
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 </div>
 
-🤖 Machine Learning & Deep Learning
+<h3 align="center">🤖 Machine Learning & Deep Learning</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light" />
@@ -71,7 +72,7 @@ My philosophy: AI for value, not for hype.
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </div>
 
-🧠 Generative AI, LLMs & Agentic AI
+<h3 align="center">🧠 Generative AI, LLMs & Agentic AI</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=huggingface&theme=light" />
@@ -88,7 +89,8 @@ My philosophy: AI for value, not for hype.
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </div>
 
-🗄️ Vector Databases & RAG
+<h3 align="center"> 🗄️ Vector Databases & RAG</h3>
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
@@ -98,7 +100,7 @@ My philosophy: AI for value, not for hype.
 <img src="https://img.shields.io/badge/Embeddings-0891B2?style=for-the-badge" />
 </div>
 
-⚙️ AI Development, APIs & Automation
+<h3 align="center">⚙️ AI Development & Automation</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github&theme=light" />
@@ -110,7 +112,7 @@ My philosophy: AI for value, not for hype.
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" />
 </div>
 
-📊 Data Analytics & Visualization
+<h3 align="center">📊 Data Analytics & Visualization</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
